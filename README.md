@@ -27,13 +27,13 @@
 
 # Credits
 
-      Api -> [Click here](https://coronavirus-19-api.herokuapp.com/countries)
+   Api -> [Click here](https://coronavirus-19-api.herokuapp.com/countries)
    
-      Country picker -> [github.com/yesterselga/country-picker-android](https://github.com/yesterselga/country-picker-android)
+   Country picker -> [github.com/yesterselga/country-picker-android](https://github.com/yesterselga/country-picker-android)
    
-      Piechart-> [github.com/blackfizz/EazeGraph](https://github.com/blackfizz/EazeGraph)
+   Piechart-> [github.com/blackfizz/EazeGraph](https://github.com/blackfizz/EazeGraph)
    
-      Arc loader -> [github.com/generic-leo/SimpleArcLoader](https://github.com/generic-leo/SimpleArcLoader)
+   Arc loader -> [github.com/generic-leo/SimpleArcLoader](https://github.com/generic-leo/SimpleArcLoader)
    
    
    
