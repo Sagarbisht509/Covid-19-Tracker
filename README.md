@@ -1,5 +1,5 @@
 # Covid-19-Tracker
-   Android application to provide real-time data of global COVID-19 patients
+   Android application to provide real-time data for all countries COVID-19 patients.
 
 ### Do :star: the repo if you like it!
 
