@@ -8,7 +8,7 @@
    Download apk for android   
    <a href="https://github.com/Mehatab/covid-19/releases/download/v1.6.2/app-release.apk"><img src="https://user-images.githubusercontent.com/81458873/114413763-e6561680-9bcb-11eb-9d41-64c9d1414c90.png" width="32%" /></a>
    
-## Required Permissions
+## Required Permission
     
       android.permission.INTERNET
    
@@ -27,13 +27,13 @@
 
 # Credits
 
-   Api -> [Click here](https://coronavirus-19-api.herokuapp.com/countries)
+      Api -> [Click here](https://coronavirus-19-api.herokuapp.com/countries)
    
-   Country picker -> [github.com/yesterselga/country-picker-android](https://github.com/yesterselga/country-picker-android)
+      Country picker -> [github.com/yesterselga/country-picker-android](https://github.com/yesterselga/country-picker-android)
    
-   Piechart-> [github.com/blackfizz/EazeGraph](https://github.com/blackfizz/EazeGraph)
+      Piechart-> [github.com/blackfizz/EazeGraph](https://github.com/blackfizz/EazeGraph)
    
-   Arc loader -> [github.com/generic-leo/SimpleArcLoader](https://github.com/generic-leo/SimpleArcLoader)
+      Arc loader -> [github.com/generic-leo/SimpleArcLoader](https://github.com/generic-leo/SimpleArcLoader)
    
    
    
