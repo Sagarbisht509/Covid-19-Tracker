@@ -6,7 +6,7 @@
 ## Download
 
    Download apk for android   
-   <a href="https://github.com/Sagarbisht509/Covid-19-Tracker/releases/1.0.0/1.0/Covid19.Tracker.apk"><img src="https://user-images.githubusercontent.com/81458873/114413763-e6561680-9bcb-11eb-9d41-64c9d1414c90.png" width="32%" /></a>
+   <a href="https://github.com/Sagarbisht509/Covid-19-Tracker/tags/Downloads/v1.0/Covid19.Tracker.apk"><img src="https://user-images.githubusercontent.com/81458873/114413763-e6561680-9bcb-11eb-9d41-64c9d1414c90.png" width="32%" /></a>
    
 ## Required Permission
     
